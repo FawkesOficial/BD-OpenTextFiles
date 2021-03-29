@@ -1,7 +1,7 @@
 
 # OpenTextFiles - [Download](https://github.com/FawkesOficial/BD-OpenTextFiles/releases/download/1.0.1/OpenTextFiles.plugin.js)
 
-Allows you open text files inside Discord Client with just the click of a button.
+BetterDiscord plugin that allows you to open text files inside the Discord Client with just the click of a button.
 
 ![Demo1](https://i.imgur.com/qboi9xV.jpg)
 
